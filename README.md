@@ -1,7 +1,7 @@
 ## Survival Strategies: Exploring Ministerial Replacement Across Regime Types
 
 
-Welcome to the repository for my final paper in **GVPT888A**, where I delve into the intricate dynamics of **ministerial replacement** across different regime types. This project uses Google Scholar to explore the most influential works on ministerial turnover, helping to better understand how regime performance shapes ministerial duration and durability.
+Welcome to the repository for my final paper in **GVPT888A**, where I investigate about the intricate dynamics of **ministerial replacement** across different regime types. This project uses Google Scholar to explore the most influential works on ministerial turnover, helping to better understand how regime performance shapes ministerial duration and durability.
 
 This repository contains all the code you need to replicate the work and dive into the literature surrounding ministerial replacement. Here's how you can get started:
 
